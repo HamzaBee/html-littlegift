@@ -1,0 +1,21 @@
+body{background-color: red;}
+.kash{
+    border: 5px solid;
+    border-color: white;
+    width: 100%;
+}
+ .winners{
+    text-align: center;
+    color: rgb(245, 239, 243);
+    font-family: "Libre Baskerville", serif;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+ }
+ h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+  }
+#BABA{color: rgb(255, 255, 255);
+border: 10px solid;color: rgba(61, 61, 75, 0.829);
+text-transform: uppercase; background-color: rgb(243, 243, 243);}
